@@ -1,9 +1,3 @@
----
-layout: page
-title: lshtm-multimorbidity
-tagline: Multimorbidity in allergic conditions
----
-
 # Meet the team
 
 ## LSHTM 
