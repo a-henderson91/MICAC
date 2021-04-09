@@ -1,3 +1,8 @@
+---
+layout: page
+title: Help
+---
+
 ## Multimorbodity in Allergic Conditions 
 
 You can use the [editor on GitHub](https://github.com/a-henderson91/lshtm-multimorbidity/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
