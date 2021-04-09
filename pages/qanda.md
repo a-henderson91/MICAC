@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Q &amp A
+title: Q &amp; A
+permalink: /about/
 ---
 
 ## Q&A
