@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Q&A
-permalink: /qanda/
 ---
 
 ## Q&A
