@@ -9,4 +9,18 @@ health care costs.
 
 It is possible that multimorbidity is more common in people with allergic conditions...
 
-Find us at [LSHTM](https://www.google.com/search?q=skin+disease+epi+LSHTM&oq=skin+&aqs=chrome.1.69i57j69i59j69i60l3j69i65l3.1506j0j7&sourceid=chrome&ie=UTF-8)
+Find us at [LSHTM](https://www.lshtm.ac.uk/research/centres-projects-groups/skindiseases)
+
+## Q&A
+### What is an allergic conditions?
+Health problem exacerbated by environmental triggers
+
+### Which allergic conditions are we studying?
+We are focussing on two common allergic conditions:
+* Eczema
+  * A skin condition which causes itchiness and dry skin
+* Asthma
+  * A respriatory conditions that can result in shortness of breath 
+
+## Are you a patient with eczema and/or asthma? 
+If you would like to get involved in our research you can find out more and get in touch via this [page](https://www.peopleinresearch.org/opportunity/help-design-communicate-research-outcomes-asthma-skin-conditions/?topic=&involvement=&location=&beginner=&home=)
