@@ -1,9 +1,11 @@
 # Meet the team
 
 ## LSHTM 
-![Test Ali](./img/ali.png "Ali")   
+<img src="/img/ali.png" title = "Ali" alt = "Test Ali" width = 200> 
 *Alasdair Henderson*  
-Research Fellow at LSHTM
+Research Fellow at LSHTM  
+
+
 
 ## Swansea
 
