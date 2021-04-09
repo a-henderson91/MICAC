@@ -16,6 +16,9 @@ More details are available [here](pages/background.html)
 ## Q&A
 For answers to some common questions -> [click here](pages/qanda.html)
 
+## Are you a patient with eczema and/or asthma? 
+If you would like to get involved in our research you can find out more and get in touch via this [page](https://www.peopleinresearch.org/opportunity/help-design-communicate-research-outcomes-asthma-skin-conditions/?topic=&involvement=&location=&beginner=&home=)
+
 ## What a great website
 Here are the other pages
 * [View the project on GitHub](https://github.com/a-henderson91/2020_multimorbidity)
