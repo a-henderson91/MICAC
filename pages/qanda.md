@@ -1,3 +1,8 @@
+---
+layout: home
+title: Q &amp A
+---
+
 ## Q&A
 ### What is an allergic conditions?
 Health problem exacerbated by environmental triggers
