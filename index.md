@@ -27,8 +27,8 @@ If you would like to get involved in our research you can find out more and get 
 
 # What a great website
 Here are the other pages
-* [Meet the team](pages/team.md)
-* [Detail on codelists in the project](pages/codelists.md)
-* [Resources](pages/resources.md) 
-* [Markdown Help for Ali](pages/help.md)
+* [Meet the team](pages/team.html)
+* [Detail on codelists in the project](pages/codelists.html)
+* [Resources](pages/resources.html) 
+* [Markdown Help for Ali](pages/help.html)
 
