@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Q &amp; A
-permalink: /about/
+title: Q&A
+permalink: /qanda/
 ---
 
 ## Q&A
