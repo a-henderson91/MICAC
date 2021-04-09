@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 
 title: Multimorbidity in Allergic Conditions
 description: A website to store information about the multimorbidity in allergic condtions project. Information on study background, methods, progress, methods, etc. [Meet the team](pages/team.html)
