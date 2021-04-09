@@ -26,4 +26,8 @@ We are focussing on two common allergic conditions:
 If you would like to get involved in our research you can find out more and get in touch via this [page](https://www.peopleinresearch.org/opportunity/help-design-communicate-research-outcomes-asthma-skin-conditions/?topic=&involvement=&location=&beginner=&home=)
 
 # What a great website
-:upside_down_face:
+Here are the other pages
+* [Help](pages/help.md)
+* Item 2 
+*
+
