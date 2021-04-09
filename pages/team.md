@@ -11,12 +11,12 @@ Assistant Prof at LSHTM
 [*Amy Mullick*](https://www.lshtm.ac.uk/aboutus/people/mulick.amy)  
 Research Fellow at LSHTM
 
-<img src="/img/ali.png" alt = "Alasdair Henderson" height = "300" />  
+<img src="https://raw.githubusercontent.com/a-henderson91/lshtm-multimorbidity/main/img/ali.png" alt="Alasdair Henderson" height="300" />  
 
 [*Alasdair Henderson*](https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair)  
 Research Fellow at LSHTM  
 
-TEST1
+TEST2  
 ETC.
 
 ## Swansea
