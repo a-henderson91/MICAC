@@ -16,8 +16,8 @@ Research Fellow at LSHTM
 [*Alasdair Henderson*](https://www.lshtm.ac.uk/aboutus/people/henderson.alasdair)  
 Research Fellow at LSHTM  
 
-TEST2  
-ETC.
+*Julian Matthewman*  
+Research Assitant at LSHTM  
 
 ## Swansea
 
