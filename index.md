@@ -1,6 +1,6 @@
 A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have **asthma** or **eczema**
 
-<img src="https://raw.githubusercontent.com/a-henderson91/lshtm-multimorbidity/main/img/fig1.png" alt="Alasdair Henderson" height="600" />  
+<img src="https://raw.githubusercontent.com/a-henderson91/lshtm-multimorbidity/main/img/fig1.png" alt="Alasdair Henderson" height="400" />  
 
 ## Background
 Often medicine treats people according to one primary condition and can account for other secondary condtions (co-morbidities). For example, illness with COVID-19
