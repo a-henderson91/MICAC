@@ -1,3 +1,7 @@
+---
+layout: page
+title: Meet the team
+---
 # Meet the team
 
 ## LSHTM 
