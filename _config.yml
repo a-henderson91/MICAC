@@ -1,8 +1,32 @@
+title: Multimorbidity in Allergic Conditions
+description: 
+title: Your awesome title
+author:
+  name: GitHub User
+  email: your-email@domain.com
+description: > # this means to ignore newlines until "show_excerpts:"
+ A website to store information about the multimorbidity in allergic condtions project. 
+ Information on study background, methods, progress, methods, etc.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    twitter: ad_henderson1
+    github:  a-henderson91
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
 theme: minima
 
-title: Multimorbidity in Allergic Conditions
-description: A website to store information about the multimorbidity in allergic condtions project. Information on study background, methods, progress, methods, etc.
-
-#logo: [Location of the logo]
-#show_downloads: ["true" or "false" to indicate whether to provide a download URL] 
-#google_analytics: [Your Google Analytics tracking ID]
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
