@@ -1,6 +1,4 @@
-# Multimorbidity in Allergic Conditions 
-
-A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have asthma or eczema
+A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have **asthma** or **eczema**
 
 ## Background
 Often medicine treats people according to one primary condition and can account for other secondary condtions (co-morbidities). For example, illness with COVID-19
