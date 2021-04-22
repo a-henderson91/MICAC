@@ -1,2 +1,2 @@
-# lshtm-multimorbidity
-Repo for information on multi morbidity project from LSHTM
+# Multimorbidity in Common ALlergic Conditions
+Basic website for MICAC project 
