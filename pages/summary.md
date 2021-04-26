@@ -1,3 +1,7 @@
+---
+layout: page
+title: Summary
+---
 # What is multimorbidity?
 The term multimorbidity describes a situation where a person lives with at least two health conditions at the same time (these can be physical or mental health problems). These conditions are not necessarily caused by, or related, to each other. Multimorbidity can determine the type of care someone receives. Clinical guidelines often focus on one condition, overlooking that someone may have other health problems.
 
