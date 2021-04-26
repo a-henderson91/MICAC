@@ -18,8 +18,8 @@ A multidisciplinary team of scientists researching the possibility of multiple c
 
 ## [The team](pages/team.html)
 
-## [Get involved](https://www.peopleinresearch.org/opportunity/help-design-communicate-research-outcomes-asthma-skin-conditions/?topic=&involvement=&location=&beginner=&home=)
-Are you a patient with eczema and/or asthma? If you would like to get involved in our research you can find out more and get in touch via this [page](https://www.peopleinresearch.org/opportunity/help-design-communicate-research-outcomes-asthma-skin-conditions/?topic=&involvement=&location=&beginner=&home=)
+## [Patient involvement](pages/ppi.html)
+Work with a leading research group to investigate the physical and mental health in patients with asthma or eczema
 
 ## View the code  
 * [View the project on GitHub](https://github.com/a-henderson91/2020_multimorbidity)
