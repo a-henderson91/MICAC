@@ -3,6 +3,10 @@ layout: home
 title: Research
 ---
 
-Host paper here
+Host paper here (v2)
 
-<embed src="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing" width="500" height="375">
+<object data="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing" type="application/pdf" width="750px" height="750px">
+    <embed src="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing">Download PDF</a>.</p>
+    </embed>
+</object>
