@@ -7,14 +7,12 @@
 #
 layout: home
 ---
-A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have **asthma** or **eczema**
-
 <img src="https://raw.githubusercontent.com/a-henderson91/MICAC/main/img/summary_project_v2.png" alt="Summary" width="1200" />  
 
+A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have **asthma** or **eczema**
+
 ## Background
-Often medicine treats people according to one primary condition and can account for other secondary condtions (co-morbidities). For example, illness with COVID-19
-and obesity as a comorbidity. Multimorbidity is different in that no one condition is primary but multiple conditions in patients can increase suffering and 
-health care costs.
+People are often medically treated according to one primary condition, whcih can then account for other secondary condtions (co-morbidities). For example, illness with COVID-19 and obesity as a comorbidity. Multimorbidity is different in that no single condition is primary, but multiple conditions in patients can increase suffering and health care costs.
 
 More details are available [here](pages/summary.html)
 
