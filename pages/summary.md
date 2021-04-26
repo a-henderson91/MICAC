@@ -2,6 +2,9 @@
 layout: page
 title: Summary
 ---
+
+People are often medically treated according to one primary condition, whcih can then account for other secondary condtions (co-morbidities). For example, illness with COVID-19 and obesity as a comorbidity. Multimorbidity is different in that no single condition is primary, but multiple conditions in patients can increase suffering and health care costs.
+
 # What is multimorbidity?
 The term multimorbidity describes a situation where a person lives with at least two health conditions at the same time (these can be physical or mental health problems). These conditions are not necessarily caused by, or related, to each other. Multimorbidity can determine the type of care someone receives. Clinical guidelines often focus on one condition, overlooking that someone may have other health problems.
 
@@ -21,3 +24,6 @@ allergic conditions.
 2. Identify reasons why multimorbidity occurs in people with allergic conditions and how and why multiple health conditions develop over time.
 3. Explore how people manage life with multiple conditions (interviews) along with the financial implications and broader
 aspects of burden (health data).
+
+## Q&A
+For answers to some common questions -> [click here](pages/qanda.html)
