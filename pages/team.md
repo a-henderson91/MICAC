@@ -46,7 +46,7 @@ Associate Professor
 Professor of Clinical Epidemiology
 
 ## Swansea
-[*Ronan Lyons*](https://www.swansea.a c.uk/staff/medicine/research/lyons-r-a/)  
+[*Ronan Lyons*](https://www.swansea.ac.uk/staff/medicine/research/lyons-r-a/)  
 Clinical Professor of Public Health, Medicine
 
 ## University College London
