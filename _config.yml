@@ -17,6 +17,8 @@ header_pages:
  - pages/summary.md
  - pages/team.md
  - pages/paper.md
+ - pages/ppi.md
+ 
 
 # Build settings
 theme: minima
