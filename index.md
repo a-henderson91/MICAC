@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: default
 ---
 
 A multidisciplinary team of scientists researching the possibility of multiple conditions in people that also have **asthma** or **eczema**
