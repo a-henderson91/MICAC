@@ -1,2 +1,2 @@
-# Multimorbidity in Common ALlergic Conditions
+# Multimorbidity in Common Allergic Conditions
 Basic website for MICAC project 
