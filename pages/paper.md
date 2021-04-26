@@ -11,7 +11,7 @@ Please download the PDF to view it: <a href="https://drive.google.com/file/d/1Ln
 
 OR 
 
-<iframe src="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 <!---
 All this should be 
