@@ -3,7 +3,7 @@ name: Alasdair Henderson
 email: alasdair.henderson1@lshtm.ac.uk
 description: > # this means to ignore newlines until "show_excerpts:"
  A website to store information about the multimorbidity in allergic condtions project. 
- Information on study background, methods, progress, methods, etc.
+ Information on study background, results, and how to get involved.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # generate social links in footer
