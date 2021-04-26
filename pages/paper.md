@@ -3,7 +3,9 @@ layout: home
 title: Research
 ---
 
-Host paper here (v3)
+Host paper here (v4)
+
+Please download the PDF to view it: <a href="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing">Download PDF</a>
 
 <embed src="https://drive.google.com/file/d/1LnVW4UsmWE1UHVxiAgdrc_pZPfhnkTDw/view?usp=sharing" type="application/pdf" width="750px" height="750px">
 
