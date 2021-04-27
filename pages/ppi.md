@@ -21,4 +21,4 @@ Workload will be flexible but could include contributing ideas, reviewing work a
 
 ## Contact
 If you are interested in getting involved with our project or have any questions, then please get in touch with Ali Henderson: (alasdair.henderson1 [at] lshtm.ac.uk)
-And follow our work on twitter: [@sineadlangan1](https://twitter.com/sineadlangan1) [@AD_henderson1](https://twitter.com/AD_henderson1) 
+And follow our work on twitter: [@sineadlangan1](https://twitter.com/sineadlangan1) [@hendersonad](https://twitter.com/hendersonad) 
