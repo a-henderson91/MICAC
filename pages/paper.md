@@ -5,9 +5,9 @@ title: Research
 
 # Paper 1: Novel clusters of multimorbidity in people with asthma and atopic eczema: a UK population-based study
 
-<object data="https://a-henderson91.github.io/MICAC/pages/Copy of Multimorbidity clusters.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="https://a-henderson91.github.io/MICAC/pages/Copy of Multimorbidity clusters.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://a-henderson91.github.io/MICAC/pages/Copy of Multimorbidity clusters.pdf">Download PDF</a>.</p>
+<object data="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters - short report.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters - short report.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters - short report.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
