@@ -24,6 +24,3 @@ allergic conditions.
 2. Identify reasons why multimorbidity occurs in people with allergic conditions and how and why multiple health conditions develop over time.
 3. Explore how people manage life with multiple conditions (interviews) along with the financial implications and broader
 aspects of burden (health data).
-
-## Q&A
-For answers to some common questions -> [click here](pages/qanda.html)
