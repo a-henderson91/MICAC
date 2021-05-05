@@ -11,6 +11,7 @@ title: Research
     </embed>
 </object>
 
+<p>To download the PDF and open in a new tab please <a href="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters short.pdf">click here</a>.</p>
 <!---
 All this should be 
 commented out
