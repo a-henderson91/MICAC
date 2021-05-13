@@ -4,6 +4,8 @@ title: Research
 ---
 
 # Draft of initial results
+Coming soon...
+<!---
 <p>To download the PDF and open in a new tab please <a href="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters short.pdf" target="_blank" rel="noopener noreferrer">click here</a>.</p>
 
 <object data="https://a-henderson91.github.io/MICAC/pages/Multimorbidity clusters short.pdf" type="application/pdf" width="750px" height="750px">
@@ -12,7 +14,7 @@ title: Research
     </embed>
 </object>
 
-<!---
+
 All this should be 
 commented out
 <embed src="https://a-henderson91.github.io/MICAC/pages/Copy of Multimorbidity clusters.pdf" type="application/pdf" width="750px" height="750px" />
